@@ -1,1 +1,1 @@
-{"name":"retry-backoff","version":"1.0.0","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc","test":"jest"},"keywords":["ferrow"],"license":"MIT"}
+{"name":"retry-backoff","version":"1.0.0","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc","test":"jest"},"keywords":["retry","backoff","exponential-backoff","jitter","resilience","typescript"],"license":"MIT"}
