@@ -1,4 +1,5 @@
 # Retry Backoff
+![CI](https://github.com/FerrowAI/retry-backoff/actions/workflows/ci.yml/badge.svg)
 
 Exponential backoff with jitter for retrying async operations.
 
