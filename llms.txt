@@ -1,4 +1,6 @@
 # retry-backoff
+
+Install: npm install @ferrow/retry-backoff
 > Exponential backoff with jitter for retrying async operations.
 
 Exponential backoff with jitter for retrying async operations.
